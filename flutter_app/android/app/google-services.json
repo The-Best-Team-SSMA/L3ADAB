@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651588094824",
+    "project_id": "ssmachatting",
+    "storage_bucket": "ssmachatting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651588094824:android:8568696f1cb3cd9afb24dd",
+        "android_client_info": {
+          "package_name": "com.example.fluttergroupchatappwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClAbmMUkFLb6xbMjSWeZCZRe3kFSRWa04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
